@@ -1,5 +1,5 @@
 # Installation Data Generator
-A Python utility for generating realistic synthetic installation records for Brazilian addresses, simulating the lifecycle of service installations over time.
+A Python utility for generating realistic synthetic installation records for Brazilian addresses. It's designed for populating test databases, development environments, or data analysis scenarios.
 
 ---
 
